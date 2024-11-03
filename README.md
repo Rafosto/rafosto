@@ -84,7 +84,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## <img src="https://i.imgur.com/GrpNcZu.png" width ="25"><b> Get in touch:</b>
+## <img src="https://i.imgur.com/GrpNcZu.png" width ="22"><b> Get in touch:</b>
 
 <ul>
 
