@@ -34,7 +34,7 @@
 - **Front-End Development:**
   [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
   [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-  [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+  [![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
 <br>
 
@@ -48,9 +48,8 @@
 
 - **Softwares and Tools:**
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-  [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
   [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
   [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
@@ -76,7 +75,7 @@
 
 - **Browsers:**
   [![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#)
-  [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)
+  [![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)
   [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)
 
 </p>
