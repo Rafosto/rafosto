@@ -99,8 +99,8 @@
 </li>
 
 <li>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/Business_WhatsApp:-25D366?logo=whatsapp&logoColor=white" alt=whatsapp style="margin-bottom: -5px;" />
+<a href="https://wa.me/351935567354?text=urlencodedtext" target="_blank">
+<img src="https://img.shields.io/badge/Business_WhatsApp: +351935567354-25D366?logo=whatsapp&logoColor=white" alt=whatsapp style="margin-bottom: -5px;" />
 </a>
 </li>
 	
