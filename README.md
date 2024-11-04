@@ -55,7 +55,6 @@
   [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
   [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
   [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 
 <br>
 
