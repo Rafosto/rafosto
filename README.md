@@ -89,8 +89,8 @@
 </li>
 
 <li>
-<a href="mailto:contact@rafosto.tech" target="_blank">
-<img src="https://img.shields.io/badge/Mail: contact@rafosto.tech-D14836?logo=gmail&logoColor=white" t=mail style="margin-bottom: -5px;" />
+<a href="mailto:me@rafosto.tech" target="_blank">
+<img src="https://img.shields.io/badge/Mail: me@rafosto.tech-D14836?logo=gmail&logoColor=white" t=mail style="margin-bottom: -5px;" />
 </a>
 </li>
 
